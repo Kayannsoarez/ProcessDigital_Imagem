@@ -1,2 +1,2 @@
-# ProcessDigital_Imagem-
+# ProcessDigital_Imagem
 Processamento Digital de Imagens
